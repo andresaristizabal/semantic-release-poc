@@ -12,6 +12,7 @@
   <component name="ChangeListManager">
     <list default="true" id="27bb6ea2-9697-48d4-a2c3-947574649d27" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/release.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/release.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +43,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605561739906</updated>
-      <workItem from="1605561740926" duration="10387000" />
+      <workItem from="1605561740926" duration="10786000" />
+      <workItem from="1605651026048" duration="565000" />
     </task>
     <servers />
   </component>
@@ -59,6 +61,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="957" y="316" width="635" height="383" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605563016862">
