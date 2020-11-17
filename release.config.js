@@ -1,5 +1,6 @@
 module.exports = {
     "branches": ['master'],
+    tagFormat: "wapi-v${version}",
     "plugins": [
         ["@semantic-release/commit-analyzer", {
             "releaseRules": [
