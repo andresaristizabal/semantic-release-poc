@@ -7,13 +7,10 @@ module.exports = {
             "releaseRules": [
                 // Disable default rules
                 {type: "*", release: false},
-                {type: 'wapiRelease', release: 'patch'},
-                {type: 'wapiFeat', release: 'minor'},
                 {type: 'wapiFix', release: 'patch'},
+                {type: 'wapiFeat', release: 'minor'},
+                {type: 'wapiRelease', release: 'patch'},
             ]
-        }],
-        ["@semantic-release/exec", {
-            "prepareCmd": "echo ${nextRelease.version}",
         }],
     ]
 }
